@@ -1,32 +1,115 @@
-# Nataly AI - Official Repository
+<h1 align="center">
+🌌 Nataly AI
+</h1>
 
-Welcome to the official repository of **Nataly AI**, a WhatsApp bot built using `Baileys`, featuring many advanced capabilities.
+<p align="center">
+<b>Next-Gen WhatsApp AI Bot • Baileys • Neon Edition</b><br>
+ذكاء اصطناعي • تصميم مستقبلي • أداء عالي
+</p>
 
-## 📌 About Me
-👤 **Name:** ALI Maoie  
-📌 **GitHub:** [aLIMW](https://github.com/alimaoie-us/Nataly-AI)  
-📌 **Instagram:** [@ali_mw_D](https://www.instagram.com/ali_maoie_v)  
+<p align="center">
+<video src="https://raw.githubusercontent.com/alimaoie-us/Object/refs/heads/main/yaemori/nature.mp4"
+autoplay loop muted playsinline width="100%"></video>
+</p>
 
-## 📺 My Channels and Platforms
-
-📢 **My YouTube Channel:**  
-[Click here](link_youtube...) to watch my videos on bot development and programming projects.  
-
-📢 **My WhatsApp Channel:**  
-[Join here](https://whatsapp.com/channel/0029Vb71THB0bIdswhCzVJ0f) to stay updated on the latest news about my projects.  
-
-## 🚀 About the Project
-
-**Silana Lite** is an enhanced, lightweight version of the Silana bot. It’s a WhatsApp bot that supports many features such as:  
-- Downloading videos and images from various platforms.  
-- Using AI for responses and advanced functions.  
-- Converting text to speech in multiple languages.  
-- Custom features tailored to user needs.
-
-## 💡 How to Contribute
-
-If you’d like to contribute to the development of this project, feel free to `Fork` the repository and submit a `Pull Request` with your modifications.
+<p align="center">
+<img src="https://img.shields.io/badge/AI-ENABLED-00ffd5?style=for-the-badge">
+<img src="https://img.shields.io/badge/STYLE-NEON-7f00ff?style=for-the-badge">
+<img src="https://img.shields.io/badge/BAILEYS-STABLE-00ff00?style=for-the-badge">
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00ccff?style=for-the-badge">
+</p>
 
 ---
 
-**Follow me on my platforms for more updates and upcoming projects!** 🚀
+## ✨ About Nataly AI | نبذة عن Nataly AI
+
+### 🇬🇧 English
+**Nataly AI** is a modern WhatsApp bot built using **Baileys**,  
+focused on AI automation, smart responses, and performance.  
+This project is **independent** and not affiliated with WhatsApp or Meta.
+
+### 🇲🇦 العربية
+**Nataly AI** هو بوت واتساب ذكي مبني باستخدام **Baileys**،  
+يركز على الذكاء الاصطناعي، الأتمتة، والسرعة،  
+وهو مشروع **مستقل تماماً** وغير تابع لواتساب أو ميتا.
+
+---
+
+## 👑 Developer | المطوّر
+
+<p align="center">
+<b>Ali Maoie</b><br>
+AI Engineer • Bot Developer • Creator
+</p>
+
+---
+
+## 👥 Group | المجموعة
+
+<p align="center">
+<b>Ali noura sohayle soka</b>
+</p>
+
+---
+
+## 🌐 Official Platforms | المنصات الرسمية
+
+<p align="center">
+
+<a href="https://github.com/Alimaoie-ust">
+<img src="https://img.shields.io/badge/GitHub-AliMaoie-0d1117?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://youtube.com/@newsportintern2831">
+<img src="https://img.shields.io/badge/YouTube-Channel-ff0033?style=for-the-badge&logo=youtube">
+</a>
+
+<a href="https://whatsapp.com/channel/0029VbBq99KBlHpjaWQsPF2J">
+<img src="https://img.shields.io/badge/WhatsApp-Channel-00ff99?style=for-the-badge&logo=whatsapp">
+</a>
+
+<a href="https://instagram.com/ali_maoie_v">
+<img src="https://img.shields.io/badge/Instagram-ali__maoie__v-ff4ecd?style=for-the-badge&logo=instagram">
+</a>
+
+</p>
+
+---
+
+## 🚀 Project Features | مميزات المشروع
+
+- 🤖 AI Smart Replies  
+- 🎥 Media Download (Video / Image)  
+- 🔊 Text To Speech (Multi-Language)  
+- ⚡ Fast & Lightweight  
+- 🧩 Modular Commands  
+- 🔐 Privacy Focused  
+
+---
+
+## 🧠 Contribution | المساهمة
+
+**English 🇬🇧**  
+Fork the repository and submit a Pull Request with your improvements.
+
+**العربية 🇲🇦**  
+يمكنك عمل Fork للمستودع وإرسال Pull Request بأي تحسينات.
+
+---
+
+## ⚠️ Disclaimer | إخلاء المسؤولية
+
+**EN:**  
+This project is not affiliated with WhatsApp Inc.  
+WhatsApp is a registered trademark of WhatsApp LLC.
+
+**AR:**  
+هذا المشروع غير تابع لشركة WhatsApp  
+وواتساب علامة تجارية مسجلة لـ WhatsApp LLC.
+
+---
+
+<p align="center">
+✨ Designed with Neon Vision by <b>Ali Maoie</b><br>
+© 2026 • Nataly AI
+</p>
