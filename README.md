@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Alimaoie-ust/Upload/05dad618a21b22fc46cd61079caae7a968f5d33e/Readnata/NATALYREAD.gif" width="100%" alt="Nataly AI Cover">
+<img src="https://raw.githubusercontent.com/Alimaoie-ust/Upload/main/Readnata/NATALYREAD.gif" width="100%" alt="Nataly AI Cover">
 </p>
 
 <p align="center">
