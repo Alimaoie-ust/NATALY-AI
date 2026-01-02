@@ -8,8 +8,7 @@
 </p>
 
 <p align="center">
-<video src="https://raw.githubusercontent.com/alimaoie-us/Object/refs/heads/main/yaemori/nature.mp4"
-autoplay loop muted playsinline width="100%"></video>
+<img src="https://raw.githubusercontent.com/Alimaoie-ust/Upload/05dad618a21b22fc46cd61079caae7a968f5d33e/Readnata/NATALYREAD.gif" width="100%" alt="Nataly AI Cover">
 </p>
 
 <p align="center">
@@ -25,12 +24,12 @@ autoplay loop muted playsinline width="100%"></video>
 
 ### 🇬🇧 English
 **Nataly AI** is a modern WhatsApp bot built using **Baileys**,  
-focused on AI automation, smart responses, and performance.  
+focused on AI automation, smart responses, and high performance.  
 This project is **independent** and not affiliated with WhatsApp or Meta.
 
 ### 🇲🇦 العربية
 **Nataly AI** هو بوت واتساب ذكي مبني باستخدام **Baileys**،  
-يركز على الذكاء الاصطناعي، الأتمتة، والسرعة،  
+يركّز على الذكاء الاصطناعي، الردود الذكية، والأداء العالي،  
 وهو مشروع **مستقل تماماً** وغير تابع لواتساب أو ميتا.
 
 ---
@@ -87,7 +86,7 @@ AI Engineer • Bot Developer • Creator
 
 ---
 
-## 🧠 Contribution | المساهمة
+## 🤝 Contribution | المساهمة
 
 **English 🇬🇧**  
 Fork the repository and submit a Pull Request with your improvements.
